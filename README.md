@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sahar
 - 👀 I’m interested in working on large-scale and complex projects
 - 🌱 I’m currently learning Nodejs 
-- 💞️ I’m looking to collaborate on interesting projects as a backend developer
+- 💞️ I’m looking to collaborate on interesting projects as a fullstack developer
 <!-- - 📫 How to reach me ...  -->
 
 <!---
